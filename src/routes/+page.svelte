@@ -77,7 +77,7 @@
 		<div>
 			<Card.Root class="pb-4 2xs:w-[200px]">
 				<Table.Root>
-					<Table.Caption>$ per point for each future ticker.</Table.Caption>
+					<Table.Caption>$ per point/tick for each future ticker.</Table.Caption>
 					<Table.Header>
 						<Table.Row>
 							<Table.Head>Future Ticker</Table.Head>
@@ -98,7 +98,7 @@
 		<div>
 			<Card.Root class="pb-4 2xs:w-[200px]">
 				<Table.Root>
-					<Table.Caption>$ per point for each future ticker.</Table.Caption>
+					<Table.Caption>$ per point/tick for each future ticker.</Table.Caption>
 					<Table.Header>
 						<Table.Row>
 							<Table.Head>Future Ticker</Table.Head>
